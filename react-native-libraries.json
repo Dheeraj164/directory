@@ -3677,7 +3677,9 @@
   {
     "githubUrl": "https://github.com/react-native-webrtc/react-native-webrtc",
     "ios": true,
-    "android": true
+    "android": true,
+    "newArchitecture": true,
+    "expo":true
   },
   {
     "githubUrl": "https://github.com/react-native-webrtc/react-native-incall-manager",
